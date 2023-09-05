@@ -1,2 +1,2 @@
 # Bank-Loan-Case-Study
-As a finance data analyst, I've used Excel for in-depth exploratory data analysis on loan applications, identifying patterns to differentiate loan defaulters from reliable borrowers. By addressing missing data, outliers, and imbalances, I've unveiled influential factors, aiding informed lending decisions.
+In this project, I have used Exploratory Data Analysis (EDA) to predict loan default among finance company customers. I addressed missing data, identified outliers, analyzed data imbalance, conducted various analyses on customer and loan attributes, and identified top correlations for loan default. These insights informed better loan approval and risk assessment decisions.
